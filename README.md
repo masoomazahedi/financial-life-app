@@ -168,7 +168,7 @@ npm install
 npm run dev
 ```
  
-The app will be available at `http://localhost:5173` with the API running on `http://localhost:5000`.
+The app will be available at https://subtle-mousse-983a25.netlify.app/login.
  
 ---
  
