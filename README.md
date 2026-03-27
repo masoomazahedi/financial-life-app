@@ -126,13 +126,13 @@ The app also features a Financial Vehicles Hub where users can manage their inve
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
-- A relational database (SQLite for development, PostgreSQL recommended for production)
+- A relational database (SQLite for development, PostgreSQL for production)
  
 ### Backend Setup
  
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/wealthpath.git
+git clone https://github.com/masoomazahedi/financial-life-app.git
 cd wealthpath/backend
  
 # Create and activate a virtual environment
@@ -176,7 +176,7 @@ The app will be available at https://subtle-mousse-983a25.netlify.app/login.
  
 ```env
 # Backend (.env)
-DATABASE_URL=sqlite:///wealthpath.db
+DATABASE_URL=sqlite:///financial-life-app.db
 JWT_SECRET_KEY=your-secret-key-here
 FLASK_ENV=development
 NEWS_API_KEY=your-news-api-key       # Optional: for news feed
