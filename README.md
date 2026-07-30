@@ -1,10 +1,10 @@
-financial-life-app — Personal Financial Planning Platform
+financial-life-app  Personal Financial Planning Platform
 
-A full-stack financial intelligence platform that transforms raw financial data into actionable insights, multi-scenario projections, and side-by-side comparisons of investment vehicles — built for individuals who want clarity over their financial future.
+A full-stack financial intelligence platform that transforms raw financial data into actionable insights, multi-scenario projections, and side-by-side comparisons of investment vehicles built for individuals who want clarity over their financial future.
 
 
  Overview
-This is a modern web application that empowers users to track their financial health, plan for retirement, and compare investment strategies with confidence. Users input their financial snapshot (income, expenses, savings, investments, debt), and the platform produces 30-year net worth projections across optimistic, realistic, and pessimistic market scenarios — alongside a proprietary health score benchmarked against Federal Reserve data.
+This is a modern web application that empowers users to track their financial health, plan for retirement, and compare investment strategies with confidence. Users input their financial snapshot (income, expenses, savings, investments, debt), and the platform produces 30-year net worth projections across optimistic, realistic, and pessimistic market scenarios  alongside a proprietary health score benchmarked against Federal Reserve data.
 The app also features a Financial Vehicles Hub where users can manage their investment plans, explore a comparative matrix of 12+ financial instruments (Roth IRA, 401k, IUL, HSA, and more), and run a multi-plan calculator to model potential returns before committing capital.
 
 ### Frontend
